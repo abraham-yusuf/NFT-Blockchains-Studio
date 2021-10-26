@@ -19,9 +19,19 @@
   },
   "description": "First clone this repo then run the development server:",
   "main": "next.config.js",
-  "keywords": ["NFT Marketplace",
-  "Decentralized Marketplace",
-  "Blockchains Studio ID"],
+  "keywords": [
+    "NFT Marketplace",
+    "Decentralized Marketplace",
+    "Blockchains Studio ID"
+  ],
   "author": "Abraham Yusuf",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraham-yusuf/NFT-Blockchains-Studio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abraham-yusuf/NFT-Blockchains-Studio/issues"
+  },
+  "homepage": "https://github.com/abraham-yusuf/NFT-Blockchains-Studio#readme"
 }
