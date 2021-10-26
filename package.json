@@ -16,5 +16,12 @@
   "devDependencies": {
     "eslint": "8.1.0",
     "eslint-config-next": "11.1.2"
-  }
+  },
+  "description": "First clone this repo then run the development server:",
+  "main": "next.config.js",
+  "keywords": ["NFT Marketplace",
+  "Decentralized Marketplace",
+  "Blockchains Studio ID"],
+  "author": "Abraham Yusuf",
+  "license": "ISC"
 }
